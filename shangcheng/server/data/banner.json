@@ -1,0 +1,35 @@
+{
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "16",
+            "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2F778bd06a-e44c-4ad0-9904-cc8420920885%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1711093794&t=09601ace9a00053a23a3caeb5d861775",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "18",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/1ba86bcc-ae71-42a3-bc3e-37b662f7f07e.jpg",
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "19",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/6d202d8e-bb47-4f92-9523-f32ab65754f4.jpg",
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "20",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/e83efb1b-309c-46f7-98a3-f1fefa694338.jpg",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "17",
+            "imgUrl": "http://yjy-xiaotuxian-dev.oss-cn-beijing.aliyuncs.com/picture/2021-04-15/4a79180a-1a5a-4042-8a77-4db0b9c800a8.jpg",
+            "hrefUrl": "/category/1019000",
+            "type": "1"
+        }
+    ]
+}
